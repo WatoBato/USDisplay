@@ -1,1 +1,14 @@
-{ "text": "TestAlert", "detail": "Does this work?", "starts": "2026-11-02", "ends": "2026-11-05" }
+[
+  {
+    "text": "TestAlert",
+    "detail": "Does this work?",
+    "starts": "2026-11-02",
+    "ends": "2026-11-05"
+  },
+  {
+    "text": "SecondAlert",
+    "detail": "This is the second announcement.",
+    "starts": "2026-11-02",
+    "ends": "2026-11-05"
+  }
+]
